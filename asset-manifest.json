@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wcs-property-solutions/static/css/main.8f38581a.css",
+    "main.css": "/wcs-property-solutions/static/css/main.d8a71fc9.css",
     "main.js": "/wcs-property-solutions/static/js/main.d27afedf.js",
     "static/js/27.3cd220db.chunk.js": "/wcs-property-solutions/static/js/27.3cd220db.chunk.js",
     "static/media/loan.png": "/wcs-property-solutions/static/media/loan.76a8624e62b8d7c70117.png",
@@ -25,7 +25,7 @@
     "static/media/line-top.svg": "/wcs-property-solutions/static/media/line-top.adbb552f8199544838f3.svg"
   },
   "entrypoints": [
-    "static/css/main.8f38581a.css",
+    "static/css/main.d8a71fc9.css",
     "static/js/main.d27afedf.js"
   ]
 }
