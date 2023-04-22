@@ -1,22 +1,11 @@
 {
   "files": {
-    "main.css": "/wcs-property-solutions/static/css/main.d8a71fc9.css",
-    "main.js": "/wcs-property-solutions/static/js/main.d27afedf.js",
+    "main.css": "/wcs-property-solutions/static/css/main.b91b810d.css",
+    "main.js": "/wcs-property-solutions/static/js/main.361f7b2e.js",
     "static/js/27.3cd220db.chunk.js": "/wcs-property-solutions/static/js/27.3cd220db.chunk.js",
-    "static/media/loan.png": "/wcs-property-solutions/static/media/loan.76a8624e62b8d7c70117.png",
     "static/media/skyline-skyscrapers-construction.png": "/wcs-property-solutions/static/media/skyline-skyscrapers-construction.5ac1d5890dac2fce7c71.png",
-    "static/media/imageeditfive.png": "/wcs-property-solutions/static/media/imageeditfive.67213b2ce2862fd52c7a.png",
     "static/media/imagesbgtwo.png": "/wcs-property-solutions/static/media/imagesbgtwo.1baf66ad889ce1e8e57d.png",
-    "static/media/pml_workflow.jpg": "/wcs-property-solutions/static/media/pml_workflow.4248b3132bf2993d1ccf.jpg",
-    "static/media/our_process_3.png": "/wcs-property-solutions/static/media/our_process_3.5334994dfc380a4a3838.png",
-    "static/media/who_we_are.png": "/wcs-property-solutions/static/media/who_we_are.320ea4c3362912de4866.png",
-    "static/media/imageeditthree.jpg": "/wcs-property-solutions/static/media/imageeditthree.83e8dbb56eb7feb64c2b.jpg",
-    "static/media/imageeditfour.jpg": "/wcs-property-solutions/static/media/imageeditfour.dcff5f96125192987182.jpg",
-    "static/media/our_process_1.png": "/wcs-property-solutions/static/media/our_process_1.0ba9d6375d89357bec1e.png",
     "static/media/pmlworkflowupdate.png": "/wcs-property-solutions/static/media/pmlworkflowupdate.0015b43238f309b64732.png",
-    "static/media/imageedittwo.jpg": "/wcs-property-solutions/static/media/imageedittwo.b5700e17126972baa16c.jpg",
-    "static/media/our_process_4.png": "/wcs-property-solutions/static/media/our_process_4.1b8d510274be64af93f8.png",
-    "static/media/our_process_2.png": "/wcs-property-solutions/static/media/our_process_2.f11a5a9175d31966eb78.png",
     "static/media/close-eye.png": "/wcs-property-solutions/static/media/close-eye.565816a47d26f2a5389e.png",
     "static/media/WCS_PS_Logo-social.jpg": "/wcs-property-solutions/static/media/WCS_PS_Logo-social.4d7872f379212a3f31a7.jpg",
     "index.html": "/wcs-property-solutions/index.html",
@@ -25,7 +14,7 @@
     "static/media/line-top.svg": "/wcs-property-solutions/static/media/line-top.adbb552f8199544838f3.svg"
   },
   "entrypoints": [
-    "static/css/main.d8a71fc9.css",
-    "static/js/main.d27afedf.js"
+    "static/css/main.b91b810d.css",
+    "static/js/main.361f7b2e.js"
   ]
 }
