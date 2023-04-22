@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/wcs-property-solutions/static/css/main.61f7f1bf.css",
-    "main.js": "/wcs-property-solutions/static/js/main.cc16e9ec.js",
+    "main.css": "/wcs-property-solutions/static/css/main.8c9d90d3.css",
+    "main.js": "/wcs-property-solutions/static/js/main.855f5b0f.js",
     "static/js/27.3cd220db.chunk.js": "/wcs-property-solutions/static/js/27.3cd220db.chunk.js",
     "static/media/skyline-skyscrapers-construction.png": "/wcs-property-solutions/static/media/skyline-skyscrapers-construction.222fe63f97190eee4420.png",
     "static/media/imagesbgtwo.png": "/wcs-property-solutions/static/media/imagesbgtwo.4695fa21b7bb7d8c802d.png",
     "static/media/imageeditfive.png": "/wcs-property-solutions/static/media/imageeditfive.67213b2ce2862fd52c7a.png",
-    "static/media/bg-1.jpg": "/wcs-property-solutions/static/media/bg-1.eb1063c068baeb7b59b2.jpg",
     "static/media/pml_workflow.jpg": "/wcs-property-solutions/static/media/pml_workflow.4248b3132bf2993d1ccf.jpg",
     "static/media/our_process_3.png": "/wcs-property-solutions/static/media/our_process_3.5334994dfc380a4a3838.png",
     "static/media/who_we_are.png": "/wcs-property-solutions/static/media/who_we_are.320ea4c3362912de4866.png",
@@ -25,7 +24,7 @@
     "static/media/line-top.svg": "/wcs-property-solutions/static/media/line-top.adbb552f8199544838f3.svg"
   },
   "entrypoints": [
-    "static/css/main.61f7f1bf.css",
-    "static/js/main.cc16e9ec.js"
+    "static/css/main.8c9d90d3.css",
+    "static/js/main.855f5b0f.js"
   ]
 }
