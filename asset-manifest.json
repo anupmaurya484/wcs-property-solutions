@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wcs-property-solutions/static/css/main.111263b1.css",
-    "main.js": "/wcs-property-solutions/static/js/main.551dfacc.js",
+    "main.js": "/wcs-property-solutions/static/js/main.a1b20cee.js",
     "static/js/27.3cd220db.chunk.js": "/wcs-property-solutions/static/js/27.3cd220db.chunk.js",
     "static/media/skyline-skyscrapers-construction.png": "/wcs-property-solutions/static/media/skyline-skyscrapers-construction.5ac1d5890dac2fce7c71.png",
     "static/media/imagesbgtwo.png": "/wcs-property-solutions/static/media/imagesbgtwo.1baf66ad889ce1e8e57d.png",
@@ -15,6 +15,6 @@
   },
   "entrypoints": [
     "static/css/main.111263b1.css",
-    "static/js/main.551dfacc.js"
+    "static/js/main.a1b20cee.js"
   ]
 }
