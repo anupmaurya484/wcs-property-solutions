@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/wcs-property-solutions/static/css/main.c65ef54b.css",
-    "main.js": "/wcs-property-solutions/static/js/main.7589d37e.js",
-    "static/js/27.703f2640.chunk.js": "/wcs-property-solutions/static/js/27.703f2640.chunk.js",
-    "static/media/skyline-skyscrapers-construction.png": "/wcs-property-solutions/static/media/skyline-skyscrapers-construction.5ac1d5890dac2fce7c71.png",
-    "static/media/imagesbgtwo.png": "/wcs-property-solutions/static/media/imagesbgtwo.1baf66ad889ce1e8e57d.png",
-    "static/media/pmlworkflowupdate.png": "/wcs-property-solutions/static/media/pmlworkflowupdate.0015b43238f309b64732.png",
-    "static/media/close-eye.png": "/wcs-property-solutions/static/media/close-eye.565816a47d26f2a5389e.png",
-    "static/media/WCS_PS_Logo-social.jpg": "/wcs-property-solutions/static/media/WCS_PS_Logo-social.4d7872f379212a3f31a7.jpg",
-    "index.html": "/wcs-property-solutions/index.html",
-    "static/media/line-six.svg": "/wcs-property-solutions/static/media/line-six.bf66d8f18d5a32d30b9a.svg",
-    "static/media/underline.svg": "/wcs-property-solutions/static/media/underline.42ad6f9267d8aa853f4a.svg",
-    "static/media/line-top.svg": "/wcs-property-solutions/static/media/line-top.adbb552f8199544838f3.svg"
+    "main.css": "/static/css/main.e2467499.css",
+    "main.js": "/static/js/main.3f520eb8.js",
+    "static/js/27.703f2640.chunk.js": "/static/js/27.703f2640.chunk.js",
+    "static/media/proposalrightimg.png": "/static/media/proposalrightimg.8104a57b4fe66c924b1c.png",
+    "static/media/skyline-skyscrapers-construction.png": "/static/media/skyline-skyscrapers-construction.5ac1d5890dac2fce7c71.png",
+    "static/media/imagesbgtwo.png": "/static/media/imagesbgtwo.1baf66ad889ce1e8e57d.png",
+    "static/media/proposalbgimg.jpg": "/static/media/proposalbgimg.f689585c11f2fd082574.jpg",
+    "static/media/check-mark.png": "/static/media/check-mark.2510b40310adfaa9fef5.png",
+    "static/media/pmlworkflowupdate.png": "/static/media/pmlworkflowupdate.0015b43238f309b64732.png",
+    "static/media/close-eye.png": "/static/media/close-eye.565816a47d26f2a5389e.png",
+    "static/media/WCS_PS_Logo-social.jpg": "/static/media/WCS_PS_Logo-social.4d7872f379212a3f31a7.jpg",
+    "index.html": "/index.html",
+    "static/media/line-six.svg": "/static/media/line-six.bf66d8f18d5a32d30b9a.svg",
+    "static/media/underline.svg": "/static/media/underline.42ad6f9267d8aa853f4a.svg",
+    "static/media/line-top.svg": "/static/media/line-top.adbb552f8199544838f3.svg"
   },
   "entrypoints": [
-    "static/css/main.c65ef54b.css",
-    "static/js/main.7589d37e.js"
+    "static/css/main.e2467499.css",
+    "static/js/main.3f520eb8.js"
   ]
 }
