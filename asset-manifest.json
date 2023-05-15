@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a482b45.css",
-    "main.js": "/static/js/main.48ed7565.js",
+    "main.js": "/static/js/main.f08b1576.js",
     "static/js/27.703f2640.chunk.js": "/static/js/27.703f2640.chunk.js",
     "static/media/skyline-skyscrapers-construction.png": "/static/media/skyline-skyscrapers-construction.5ac1d5890dac2fce7c71.png",
     "static/media/imagesbgtwo.png": "/static/media/imagesbgtwo.1baf66ad889ce1e8e57d.png",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.2a482b45.css",
-    "static/js/main.48ed7565.js"
+    "static/js/main.f08b1576.js"
   ]
 }
