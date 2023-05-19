@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.0215cba3.css",
-    "main.js": "/static/js/main.f7289720.js",
+    "main.css": "/static/css/main.a06a1899.css",
+    "main.js": "/static/js/main.f98c4fbb.js",
     "static/js/27.703f2640.chunk.js": "/static/js/27.703f2640.chunk.js",
+    "static/media/header.JPG": "/static/media/header.456c0a537f4086f07843.JPG",
     "static/media/skyline-skyscrapers-construction.png": "/static/media/skyline-skyscrapers-construction.5ac1d5890dac2fce7c71.png",
     "static/media/imagesbgtwo.png": "/static/media/imagesbgtwo.1baf66ad889ce1e8e57d.png",
     "static/media/proposalbgimg.jpg": "/static/media/proposalbgimg.f689585c11f2fd082574.jpg",
@@ -16,7 +17,7 @@
     "static/media/line-top.svg": "/static/media/line-top.adbb552f8199544838f3.svg"
   },
   "entrypoints": [
-    "static/css/main.0215cba3.css",
-    "static/js/main.f7289720.js"
+    "static/css/main.a06a1899.css",
+    "static/js/main.f98c4fbb.js"
   ]
 }
