@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.a06a1899.css",
-    "main.js": "/static/js/main.ace42294.js",
+    "main.css": "/static/css/main.c0bc548f.css",
+    "main.js": "/static/js/main.be67fbd9.js",
     "static/js/27.703f2640.chunk.js": "/static/js/27.703f2640.chunk.js",
-    "static/media/header.JPG": "/static/media/header.456c0a537f4086f07843.JPG",
+    "static/media/team1.jpg": "/static/media/team1.289a07d8290859179148.jpg",
+    "static/media/team2.png": "/static/media/team2.5163e9516e78cbf16674.png",
     "static/media/skyline-skyscrapers-construction.png": "/static/media/skyline-skyscrapers-construction.5ac1d5890dac2fce7c71.png",
     "static/media/imagesbgtwo.png": "/static/media/imagesbgtwo.1baf66ad889ce1e8e57d.png",
+    "static/media/hero.jpg": "/static/media/hero.965abe6f00a5f584d08c.jpg",
     "static/media/proposalbgimg.jpg": "/static/media/proposalbgimg.f689585c11f2fd082574.jpg",
     "static/media/check-mark.png": "/static/media/check-mark.2510b40310adfaa9fef5.png",
     "static/media/close-eye.png": "/static/media/close-eye.565816a47d26f2a5389e.png",
@@ -17,7 +19,7 @@
     "static/media/line-top.svg": "/static/media/line-top.adbb552f8199544838f3.svg"
   },
   "entrypoints": [
-    "static/css/main.a06a1899.css",
-    "static/js/main.ace42294.js"
+    "static/css/main.c0bc548f.css",
+    "static/js/main.be67fbd9.js"
   ]
 }
