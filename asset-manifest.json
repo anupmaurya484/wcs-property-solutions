@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3203c718.css",
-    "main.js": "/static/js/main.ce3b25dd.js",
+    "main.css": "/static/css/main.c56a5ca8.css",
+    "main.js": "/static/js/main.456f95d2.js",
     "static/js/27.703f2640.chunk.js": "/static/js/27.703f2640.chunk.js",
     "static/media/team1.jpg": "/static/media/team1.289a07d8290859179148.jpg",
     "static/media/team2.png": "/static/media/team2.5163e9516e78cbf16674.png",
@@ -9,6 +9,7 @@
     "static/media/imagesbgtwo.png": "/static/media/imagesbgtwo.1baf66ad889ce1e8e57d.png",
     "static/media/hero.jpg": "/static/media/hero.965abe6f00a5f584d08c.jpg",
     "static/media/proposalbgimg.jpg": "/static/media/proposalbgimg.f689585c11f2fd082574.jpg",
+    "static/media/ebook-cover.jpg": "/static/media/ebook-cover.b94eec1b71971d5ecd52.jpg",
     "static/media/check-mark.png": "/static/media/check-mark.2510b40310adfaa9fef5.png",
     "static/media/close-eye.png": "/static/media/close-eye.565816a47d26f2a5389e.png",
     "static/media/WCS_PS_Logo-social.jpg": "/static/media/WCS_PS_Logo-social.4d7872f379212a3f31a7.jpg",
@@ -19,7 +20,7 @@
     "static/media/line-top.svg": "/static/media/line-top.adbb552f8199544838f3.svg"
   },
   "entrypoints": [
-    "static/css/main.3203c718.css",
-    "static/js/main.ce3b25dd.js"
+    "static/css/main.c56a5ca8.css",
+    "static/js/main.456f95d2.js"
   ]
 }
